@@ -2,7 +2,7 @@
 > You can try out our game by clicking this [_link_](https://sorin373.github.io/).
 
 # General Information
-- This game was made by team @Olobol which consisted of 5 students from [Colegiul National Bilingv George Cosbuc](http://cosbucbilingv.ro/).
+- This game was made by team @Olobol which consisted of me and other 4 students from [Colegiul National Bilingv George Cosbuc](http://cosbucbilingv.ro/).
 
 # Requirements
 - The game is made for PC only ( **Windows** ).
