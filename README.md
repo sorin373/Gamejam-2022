@@ -11,7 +11,7 @@
 - The project has beed completed on the 9th of October 2022.
 
 # Acknowledgements
-- This contest was organized by [_Goethe Institut_](https://www.example.com).
+- This contest was organized by [_Goethe Institut_](https://www.goethe.de/ins/ro/ro/spr/kur.html).
 
 # Contact
 - sorin.andrei.tudose@gmail.com / tudose.sorinandrei@cncosbuc.ro
