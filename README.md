@@ -5,10 +5,10 @@
 - This game was made by team @Olobol which consisted of me and other 4 students from [Colegiul National Bilingv George Cosbuc](http://cosbucbilingv.ro/).
 
 # Requirements
-- The game is made for PC only ( **Windows** ).
+- The game is made for PC only (**Windows**).
 
 # Project Status
-- The project has beed completed on the 9th of October 2022.
+- The project has been completed on the 9th of October 2022.
 
 # Acknowledgements
 - This contest was organized by [_Goethe Institut_](https://www.goethe.de/ins/ro/ro/spr/kur.html).
