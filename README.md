@@ -8,7 +8,7 @@
 - The game is exclusively designed for PC, specifically the **Windows** operating system.
 
 ## Project Status
-- The project has been completed on the 9th of October 2022.
+- The project has been completed on the 9<sup>th</sup> of October 2022.
 
 ## Acknowledgements
 - This contest was organized by [_Goethe Institut_](https://www.goethe.de/ins/ro/ro/spr/kur.html).
