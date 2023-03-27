@@ -5,13 +5,10 @@
 - We had a strict deadline of 2 days to complete and submit the game. 
 
 ## Requirements
-- The game is made for PC only (**Windows**).
+- The game is exclusively designed for PC, specifically the **Windows** operating system.
 
 ## Project Status
 - The project has been completed on the 9th of October 2022.
 
 ## Acknowledgements
 - This contest was organized by [_Goethe Institut_](https://www.goethe.de/ins/ro/ro/spr/kur.html).
-
-## Contact
-- sorin.andrei.tudose@gmail.com / tudose.sorinandrei@cncosbuc.ro
